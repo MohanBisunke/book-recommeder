@@ -1,0 +1,6 @@
+books.pkl
+popular_books.pkl
+pt.pkl
+similarity.pkl
+/venv
+/.idea
